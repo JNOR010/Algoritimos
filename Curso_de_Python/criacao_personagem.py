@@ -1,4 +1,4 @@
-print('Olá, Bem vindo ao Mundo de Drømmer. Utilize o menu a seguir para criar o seu personagem')
+print('Olá, Bem vindo a Drømmer. Utilize o menu a seguir para criar o seu personagem')
 
 class personagem():
     def __init__(self, nome, idade, sexo):
